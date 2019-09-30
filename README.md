@@ -6,4 +6,6 @@ Thesis_Jojo.pdf is the pdf file for my thesis. The whole experiment is obviously
 
 generateImage.m is a MATLAB file that has script for generation for images.
 
+GUI.m is a demo file that has a demo script for the GUI of the actual experiment.
+
 
