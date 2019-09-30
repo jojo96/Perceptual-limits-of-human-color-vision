@@ -3,3 +3,7 @@
 Ace.stl is the stl file of the optimal color solid
 
 Thesis_Jojo.pdf is the pdf file for my thesis. The whole experiment is obviously described here.
+
+generateImage.m is a MATLAB file that has script for generation for images.
+
+
